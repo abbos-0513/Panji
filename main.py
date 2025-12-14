@@ -16,7 +16,7 @@ CHANNEL_USERNAME = "@abdurazoqov606"
 CREATOR_USERNAME = "@abdurozoqov_edits"
 
 # Render sizga bergan manzil (Masalan: https://bot-nomi.onrender.com)
-RENDER_URL = "https://SIZNING-RENDER-APP-NOMINGIZ.onrender.com"
+RENDER_URL = "https://panji.onrender.com"
 
 # --- STATISTIKA ---
 stats = {
