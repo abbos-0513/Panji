@@ -10,7 +10,7 @@ from flask_cors import CORS
 
 # --- SOZLAMALAR ---
 # Token va ID larni o'zingiznikiga almashtiring!
-TOKEN = "7712836266:AAFLRtTf67NHkeoQh9AXfNscJvgReBL2XEU"
+TOKEN = "8310992834:AAFIhrXHPCjiuvGOHI8XjiWom7k07mlUSxo"
 ADMIN_ID = 8250478755  # <-- O'zingizning ID raqamingizni yozing
 CHANNEL_USERNAME = "@abdurazoqov606"
 CREATOR_USERNAME = "@abdurozoqov_edits"
